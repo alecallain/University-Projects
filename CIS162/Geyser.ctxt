@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Geyser(java.lang.String)
+comment0.text=\n\ Instanciates\ the\ geyser\ name\n
+comment1.params=
+comment1.target=void\ increment()
+comment1.text=\n\ Increases\ the\ number\ of\ eruptions\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ @return\ name\ of\ geysers\n
+comment3.params=
+comment3.target=int\ getNumEruptions()
+comment3.text=\n\ @return\ number\ of\ eruptions\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ Tests\ each\ of\ the\ methods\n
+numComments=5

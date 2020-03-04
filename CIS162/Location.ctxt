@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=r\ c
+comment0.target=Location(int,\ int)
+comment0.text=\n\ initialize\ the\ instance\ variables\n\ \n\ @param\ r\ is\ set\ to\ row\n\ @param\ c\ is\ set\ to\ col\n
+comment1.params=r
+comment1.target=void\ setRow(int)
+comment1.text=\n\ sets\ row\ number\n\ \n\ @param\ r\ sets\ the\ row\n
+comment2.params=c
+comment2.target=void\ setCol(int)
+comment2.text=\n\ sers\ column\ number\n\ \n\ @param\ c\ sets\ the\ column\n
+comment3.params=
+comment3.target=int\ getRow()
+comment3.text=\n\ @return\ row\ number\n
+comment4.params=
+comment4.target=int\ getCol()
+comment4.text=\n\ @return\ column\ number\n
+numComments=5

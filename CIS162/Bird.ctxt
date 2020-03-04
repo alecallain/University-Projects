@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=loc
+comment0.target=Bird(Location)
+comment0.text=\n\ Starting\ values\ for\ a\ bird\n\ @param\ loc\ gives\ location\ for\ bird\n
+numComments=1
